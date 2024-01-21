@@ -1,0 +1,14 @@
+What is Madlib???
+
+     Mad Libs is a word game where one player prompts others for a list of words to substitute for blanks in a story before reading aloud.
+
+How we are going to implement it???
+
+    1====> WE WILL BE USING STRING CONATENATION
+    2====> STRING FORMATTING USING F FORMAT
+    EXAMPLE :
+         name=input('Enter the name:')
+         print(f'Good morning {name}')
+Note: 
+    1) Many string formatting methods are present,for example,format() can also be used.
+    2) \ is used to indicate that the string still continue and it doesnt get's ended here
